@@ -1,0 +1,50 @@
+2017-12-15 20:48:05,462,main,ERROR - [Errno 2] No such file or directory: 'img\\lp'
+2017-12-15 20:50:16,585,main,ERROR - [WinError 2] The system cannot find the file specified: 'imh'
+2017-12-15 20:50:23,556,main,ERROR - name 'imgpath' is not defined
+2017-12-15 20:50:26,169,main,ERROR - [WinError 123] The filename, directory name, or volume label syntax is incorrect: ''
+2017-12-15 20:50:26,985,main,ERROR - [WinError 123] The filename, directory name, or volume label syntax is incorrect: ''
+2017-12-15 20:50:27,188,main,ERROR - [WinError 123] The filename, directory name, or volume label syntax is incorrect: ''
+2017-12-15 20:50:27,369,main,ERROR - [WinError 123] The filename, directory name, or volume label syntax is incorrect: ''
+2017-12-15 20:50:28,170,main,ERROR - [WinError 2] The system cannot find the file specified: 's'
+2017-12-15 20:50:29,972,main,ERROR - [WinError 2] The system cannot find the file specified: 'sdds'
+2017-12-15 21:04:28,127,main,ERROR - [WinError 267] The directory name is invalid: 'figure-65.png'
+2017-12-15 21:04:30,348,main,ERROR - [WinError 2] The system cannot find the file specified: 'img'
+2017-12-15 21:04:38,232,main,ERROR - [Errno 13] Permission denied: '..'
+2017-12-15 21:04:43,833,main,ERROR - 'str' object has no attribute 'read'
+2017-12-15 21:04:51,530,main,ERROR - [Errno 13] Permission denied: '.'
+2017-12-15 21:04:55,205,main,ERROR - [Errno 13] Permission denied: '.'
+2017-12-15 21:05:10,466,main,ERROR - [WinError 3] The system cannot find the path specified: 'desktop\\pymodules\\tesseract'
+2017-12-15 21:08:46,332,main,ERROR - [WinError 123] The filename, directory name, or volume label syntax is incorrect: ''
+2017-12-16 17:27:06,691,main,ERROR - name 'imgpath' is not defined
+2017-12-16 17:27:12,584,main,ERROR - name 'imgpath' is not defined
+2017-12-16 17:27:13,053,main,ERROR - name 'imgpath' is not defined
+2017-12-16 17:27:13,272,main,ERROR - name 'imgpath' is not defined
+2017-12-16 17:27:13,851,main,ERROR - name 'imgpath' is not defined
+2017-12-16 17:27:14,507,main,ERROR - name 'imgpath' is not defined
+2017-12-16 17:27:14,585,main,ERROR - name 'imgpath' is not defined
+2017-12-16 17:27:14,663,main,ERROR - name 'imgpath' is not defined
+2017-12-16 17:27:14,726,main,ERROR - name 'imgpath' is not defined
+2017-12-16 17:27:14,804,main,ERROR - name 'imgpath' is not defined
+2017-12-16 17:27:14,882,main,ERROR - name 'imgpath' is not defined
+2017-12-16 17:27:14,944,main,ERROR - name 'imgpath' is not defined
+2017-12-16 17:27:15,023,main,ERROR - name 'imgpath' is not defined
+2017-12-16 17:27:15,101,main,ERROR - name 'imgpath' is not defined
+2017-12-16 17:27:15,163,main,ERROR - name 'imgpath' is not defined
+2017-12-16 17:27:15,241,main,ERROR - name 'imgpath' is not defined
+2017-12-16 17:27:15,320,main,ERROR - name 'imgpath' is not defined
+2017-12-16 17:27:15,382,main,ERROR - name 'imgpath' is not defined
+2017-12-16 17:27:15,460,main,ERROR - name 'imgpath' is not defined
+2017-12-16 17:27:15,538,main,ERROR - name 'imgpath' is not defined
+2017-12-16 17:27:15,616,main,ERROR - name 'imgpath' is not defined
+2017-12-16 17:27:15,679,main,ERROR - name 'imgpath' is not defined
+2017-12-16 17:27:15,757,main,ERROR - name 'imgpath' is not defined
+2017-12-16 17:27:15,835,main,ERROR - name 'imgpath' is not defined
+2017-12-16 17:27:15,913,main,ERROR - name 'imgpath' is not defined
+2017-12-16 17:27:15,976,main,ERROR - name 'imgpath' is not defined
+2017-12-16 17:27:16,054,main,ERROR - name 'imgpath' is not defined
+2017-12-16 17:27:16,117,main,ERROR - name 'imgpath' is not defined
+2017-12-16 17:27:16,195,main,ERROR - name 'imgpath' is not defined
+2017-12-16 17:27:16,274,main,ERROR - name 'imgpath' is not defined
+2017-12-16 17:27:16,336,main,ERROR - name 'imgpath' is not defined
+2017-12-16 17:27:16,414,main,ERROR - name 'imgpath' is not defined
+2017-12-16 17:27:51,325,main,ERROR - name 'imgpath' is not defined
